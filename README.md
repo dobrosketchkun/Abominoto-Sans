@@ -3,13 +3,13 @@ One day I thought, what if Russian and English languages were written in kanas? 
 Here you can see what exactly wrong with this idea:
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dobrosketchkun/Abominoto-Sans/main/ab_ru.jpg width="200">
+<img src="https://raw.githubusercontent.com/dobrosketchkun/Abominoto-Sans/main/ab_ru.jpg" width="800">
 <p>Russian with hiragana</p>
 </div>
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dobrosketchkun/Abominoto-Sans/main/ab_en.jpg width="200">
+<img src="https://raw.githubusercontent.com/dobrosketchkun/Abominoto-Sans/main/ab_en.jpg" width="800">
 <p>English with katakana</p>
 </div>
                                                                                                     
