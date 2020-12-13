@@ -4,13 +4,13 @@ Here you can see what exactly wrong with this idea:
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dobrosketchkun/Abominoto-Sans/main/ab_ru.jpg" width="800">
-<sup>Russian with hiragana</sup>
+<p>Russian with hiragana</p>
 </div>
 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dobrosketchkun/Abominoto-Sans/main/ab_en.jpg" width="800">
-<sup>English with katakana</sup>
+<p>English with katakana</p>
 </div>
                                                                                                     
                                                                                                     
